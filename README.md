@@ -24,5 +24,5 @@ Analysis of 9,500+ used car listings to understand pricing patterns.
 - Exploratory data analysis
 
 ## Author
-[Jeremy Koome]
+Jeremy Koome
 email: jeremykoome475@gmail.com
